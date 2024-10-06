@@ -25,7 +25,6 @@ pip install requests
 ```
 
 ## Cara Penggunaan
-Cara Penggunaan
 - Jalankan script menggunakan Python:
 ```bash
 python located.py
@@ -36,14 +35,14 @@ python located.py
 ## Output
 Informasi yang ditampilkan meliputi:
 
-Alamat IP
-Benua
-Negara
-Provinsi
-Kota
-ISP
-Latitude dan Longitude
-Kecepatan respons (ms)
+- Alamat IP
+- Benua
+- Negara
+- Provinsi
+- Kota
+- ISP
+- Latitude dan Longitude
+- Kecepatan respons (ms)
 
 ## NOTE
 - Pastikan koneksi internet stabil untuk menghindari error saat mengambil data dari API.
