@@ -1,4 +1,4 @@
-# IP GeoLocation Script
+# Lacak Lokasi Target Ome TV
 
 Script ini digunakan untuk mendeteksi dan mengambil informasi lokasi geografis dari sebuah alamat IP, termasuk benua, negara, provinsi, kota, ISP, serta koordinat geografis. Data tersebut diambil dari API eksternal dan ditampilkan dalam format yang mudah dibaca.
 
